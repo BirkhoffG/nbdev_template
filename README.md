@@ -1,15 +1,8 @@
 # nbdev template
 
+> This is a forked repo to [nbdev_template](https://github.com/fastai/nbdev_template/commit/76f9035762185cbebece3fc30d4ce01985022143) with modification.
+
 Use this template to more easily create your [nbdev](https://nbdev.fast.ai/) project.
-
-## Python commands
-
-```
-# run training
-python -m counterfactual.train
-# run evaluation
-python -m scripts.evaluate_cfs
-```
 
 ## Build nbs to module
 
